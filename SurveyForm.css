@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
 
 h1{
@@ -5,7 +6,13 @@ h1{
     font-weight: bold;
     color: white;
 }
+h5{
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
 body {
+    color: white;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
   line-height: 1.6;/*Para espaciado entre linea de texto*/
@@ -19,16 +26,20 @@ body {
 
 label{
     display: flex;
+    color: white;
 }
+
+
 
 form{
     background-color: rgba(39, 21, 87, 0.7);
     padding: 30px 30px 30px 30px; /*top, left ,button, right /*/
     margin: auto auto auto auto;
+    border-radius: 10px;
 }
 
 #title{
-    font-size: 30px;
+    text-align: center;
 }
 
 button{
@@ -78,11 +89,19 @@ button{
 }
 #dropdown{
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+  
     width: 100%;
 }
 
 #submit{
     font-family: 'Poppins';
+    display: block;
+    width: 100%;
+    background-color: #6dc487;
+    border-radius: 1px;
+    border-color: rgb(125, 154, 168);
+    cursor: pointer;
+    font-size: medium;
+    border-radius: 5px;
+    color:white;
 }
-
