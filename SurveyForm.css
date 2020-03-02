@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  line-height: 1.6;/*Para espaciado entre linea de texto*/
+  background-image:  linear-gradient(
+    100deg,
+    #393999c5,
+    #8282c4b3
+    ), url("https://raw.githubusercontent.com/lasjorg/fcc-form-example-image/master/67103817-7c51e200-f18b-11e9-975f-f74561336a9a-lj.jpg");
+    
+}
+
+label{
+    display: flex;
+}
+
+form{
+    background-color: rgba(39, 21, 87, 0.7);
+    padding: 30px 30px 30px 30px; /*top, left ,button, right /*/
+    margin: auto auto auto auto;
+}
+
+#title{
+    font-size: 30px;
+}
+
+button{
+    display: block;
+    width: 100%;
+    background-color: #6dc487;
+    border-radius: 1px;
+    border-color: rgb(125, 154, 168);
+    cursor: pointer;
+    font-size: medium;
+}
+
+#Email{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+
+#Name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+
+#textarea{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 20px;
+    width: 100%;
+}
+#number{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+
+#desciption{
+    font-style: italic;
+    text-align: center;
+    font-size: 1.5vmax;
+    color: white;
+}
+
+#survey-form{
+    max-width: 600px;
+    display: block;
+
+}
+#dropdown{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+
+#submit{
+    font-family: 'Poppins';
+}
+
