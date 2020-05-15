@@ -3,7 +3,7 @@
 > This project assigment is to copy an old version from apple website
 Url: https://codepen.io/freeCodeCamp/full/zNqgVx
 
-![screenshot](/assets/Images/screenshot.png)
+![screenshot](/assets/images/screenshot.png)
 
     This project goal is to create a basic website
 
