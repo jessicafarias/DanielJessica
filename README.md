@@ -1,7 +1,7 @@
 # Responsive Web Design Projects (FreecodeCamp)
 
 > This project assigment is to copy an old version from apple website
-Url: https://codepen.io/freeCodeCamp/full/zNqgVx
+Url: https://codepen.io/freeCodeCamp/full/VPaoNP
 
 ![screenshot](/assets/images/screenshot.png)
 
